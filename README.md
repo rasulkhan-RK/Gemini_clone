@@ -1,8 +1,5 @@
-# React + Vite
+# Gemini_Clone
+Gemini_clone Using vite and react build a gemini clone and gained basic how to reuse comoponen and The react hook
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot 2024-10-31 012046](https://github.com/user-attachments/assets/86086d4d-1bc5-41df-99ea-89881a6e3e30)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
